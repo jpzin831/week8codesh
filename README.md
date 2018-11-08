@@ -5,4 +5,4 @@
 
 Green has the vulnerability, the error given when login is unsuccesful in not bold when a non-existant user tries to log in.
 
-
+![](username enumaration.gif)
