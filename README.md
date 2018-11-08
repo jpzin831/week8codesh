@@ -4,5 +4,4 @@
 1. Username Enumeration: A careless developer mistake has created a username enumeration vulnerability. Determine which color has the vulnerability. You can use the existing username "jmonroe99" as a test. Next, figure out what mistake the developer made.
 
 Green has the vulnerability, the error given when login is unsuccesful in not bold when a non-existant user tries to log in.
-
-![](username enumaration.gif)
+<img src="https://github.com/jpzin831/week8codesh/blob/master/username%20enumaration.gif" width="800">
